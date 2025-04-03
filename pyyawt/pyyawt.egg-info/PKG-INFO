@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: pyyawt
+Version: 0.1.0
+Summary: C++ implementation of wavelet transforms
+Author: rsHRF Team
+Author-email: madhurtandon23@gmail.com
+Requires-Python: >=3.6
+Requires-Dist: numpy
+Requires-Dist: pybind11>=2.6.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
